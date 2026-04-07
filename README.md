@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently a Salesforce Marketing Cloud Personalization Developer
+- 🌱 I’m currently a Fullstack Developer, I prefer backend development.
 - 📫 How to reach me: karangandhi.dev@gmail.com
 - Also, I love video games!
 
